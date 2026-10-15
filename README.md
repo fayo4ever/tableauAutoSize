@@ -8,20 +8,20 @@ For further customization, edit the return of the vizUrl() function in tableauAu
 
 ### Toolbar Options (iframe URL)
 
-| Values        | Result                                  | 
-| :---          | :---                                    |
-| :toolbar=yes  | Same as default, toolbar at the bottom  |
-| :toolbar=top  | Toolbar shows above the dashboard       |
-| :toolbar=no	  | Toolbar is hidden                       |
+| Values          | Result                                  | 
+| :---            | :---                                    |
+| `:toolbar=yes`  | Same as default, toolbar at the bottom  |
+| `:toolbar=top`  | Toolbar shows above the dashboard       |
+| `:toolbar=no`	  | Toolbar is hidden                       |
 
 ### Hide Individual Toolbar Buttons
 
-Parameter	Hides
-`:showShareOptions=false`	Share
-`:customViews=no`	View (custom views)
-`:alerts=no`	Alerts
-`:subscriptions=no`	Subscribe
-`:dataDetails=no`	Data Details
-`:showAskData=false`	Ask Data
+| Parameter	| Hides|
+| `:showShareOptions=false`|	Share|
+| `:customViews=no`	| View (custom views)|
+| `:alerts=no`	| Alerts|
+| `:subscriptions=no`	| Subscribe|
+| `:dataDetails=no`	| Data Details|
+| `:showAskData=false`| Ask Data|
 
 
