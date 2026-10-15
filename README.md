@@ -4,7 +4,7 @@ The standard Tableau View component in Salesforce uses a fixed height. Use the f
 
 ## Tutorial for Beginners
 
-Follow [this trail](https://trailhead.salesforce.com/content/learn/projects/get-started-with-salesforce-development/build-reusable-ui-component-with-lightning-web-components), for a full tutorial on building a custom LWC if you haven't done this before.
+Follow [this trail](https://trailhead.salesforce.com/content/learn/projects/get-started-with-salesforce-development/build-reusable-ui-component-with-lightning-web-components) for a full tutorial on building a custom LWC if you haven't done this before.
 
 ## Customization
 
