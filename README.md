@@ -45,4 +45,7 @@ For further customization, edit the return of the vizUrl() function in tableauAu
 | Field filter	| FieldName=Value	| Filters the dashboard on load (case-sensitive), e.g. Season=2026 |
 
 
+**Note that Salesforce tries to be as true to the Tableau dashboard as possible. So many of these changes can just be done in Tableau if that is easier for you.**
+
+
 
