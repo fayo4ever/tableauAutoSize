@@ -16,12 +16,13 @@ For further customization, edit the return of the vizUrl() function in tableauAu
 
 ### Hide Individual Toolbar Buttons
 
-| Parameter	| Hides|
-| `:showShareOptions=false`|	Share|
-| `:customViews=no`	| View (custom views)|
-| `:alerts=no`	| Alerts|
-| `:subscriptions=no`	| Subscribe|
-| `:dataDetails=no`	| Data Details|
+| Parameter	                | Hides|
+| :---                       | :---                                    |
+| `:showShareOptions=false`  |	Share|
+| `:customViews=no`          | View (custom views)|
+| `:alerts=no`               | Alerts|
+| `:subscriptions=no`        | Subscribe|
+| `:dataDetails=no`          | Data Details|
 | `:showAskData=false`| Ask Data|
 
 
